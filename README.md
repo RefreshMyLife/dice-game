@@ -50,5 +50,5 @@ yarn start
 > 👩‍💻 Rerun `yarn deploy` whenever you want to deploy new contracts to the frontend. If you haven't made any contract changes, you can run `yarn deploy--reset` for a completely fresh deploy.
 
 ---
-📜 Sepolia link: https://sepolia.etherscan.io/address/0xF20b5CB0aE9E416902506161a9289b36B1aF3783
-🔗 Vercel link: https://dice-game-hwoxlfo65-refreshmylifes-projects.vercel.app/
+>📜 Sepolia link: https://sepolia.etherscan.io/address/0xF20b5CB0aE9E416902506161a9289b36B1aF3783
+>🔗 Vercel link: https://dice-game-hwoxlfo65-refreshmylifes-projects.vercel.app/
