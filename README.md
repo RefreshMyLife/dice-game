@@ -50,12 +50,5 @@ yarn start
 > 👩‍💻 Rerun `yarn deploy` whenever you want to deploy new contracts to the frontend. If you haven't made any contract changes, you can run `yarn deploy--reset` for a completely fresh deploy.
 
 ---
-
-
-To know more about its features, check out our [website](https://scaffoldeth.io).
-
-## Contributing to Scaffold-ETH 2
-
-We welcome contributions to Scaffold-ETH 2!
-
-Please see [CONTRIBUTING.MD](https://github.com/scaffold-eth/scaffold-eth-2/blob/main/CONTRIBUTING.md) for more information and guidelines for contributing to Scaffold-ETH 2.
+📜 Sepolia link: https://sepolia.etherscan.io/address/0xF20b5CB0aE9E416902506161a9289b36B1aF3783
+🔗 Vercel link: https://dice-game-hwoxlfo65-refreshmylifes-projects.vercel.app/
